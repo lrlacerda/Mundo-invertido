@@ -85,10 +85,4 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 
 <br/><br/>
 
-<p>
-    <img align=left margin=10 width=80 src="./assets/images/renan-avatar.jpeg"/>
-    <p>&nbsp&nbsp&nbspRenan Johannsen de Paula <br>
-    &nbsp&nbsp&nbsp<a href="https://github.com/RenanJPaula">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
-    </p>
-</p>
+
